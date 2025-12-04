@@ -74,7 +74,7 @@ number-puzzle-expo/
 
 The game levels are configured in the `LEVELS` constant in `App.js`:
 
-- Level 1 (Easy): 6x5 grid, 3 initial rows, 2 extra rows
+- Level 1 (Easy): 5x4 grid, 3 initial rows, 2 extra rows
 - Level 2 (Medium): 7x6 grid, 3 initial rows, 3 extra rows
 - Level 3 (Hard): 8x6 grid, 4 initial rows, 3 extra rows
 
@@ -144,8 +144,4 @@ If you encounter a "Property 'setImmediate' doesn't exist" error, ensure that:
 
 ## License
 
-This project is provided as-is for educational and development purposes.
-
-## Contact
-
-For questions or issues, please refer to the project repository or contact the development team.
+This project is provided as-is for Assignment*.
